@@ -1,0 +1,82 @@
+.elementor-35 .elementor-element.elementor-element-0a85486{--display:grid;--e-con-grid-template-columns:repeat(2, 1fr);--e-con-grid-template-rows:repeat(1, 1fr);--grid-auto-flow:row;--background-transition:0.3s;}.elementor-35 .elementor-element.elementor-element-bc0c60c .elementor-button{font-family:"Montserrat", Sans-serif;font-size:13px;font-weight:400;background-color:#334E6F;border-style:none;}.elementor-35 .elementor-element.elementor-element-3af18b4{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-35 .elementor-element.elementor-element-a166dfa{text-align:center;}.elementor-35 .elementor-element.elementor-element-a166dfa .elementor-heading-title{color:#334E6F;font-family:"Montserrat", Sans-serif;font-size:30px;font-weight:600;}.elementor-35 .elementor-element.elementor-element-4c216fc{--display:flex;--background-transition:0.3s;}.elementor-35 .elementor-element.elementor-element-189f623 > .elementor-widget-container{padding:20px 20px 20px 20px;background-color:#F6F8FB;border-radius:50px 50px 50px 50px;}@media(max-width:1024px){.elementor-35 .elementor-element.elementor-element-0a85486{--grid-auto-flow:row;}}@media(max-width:767px){.elementor-35 .elementor-element.elementor-element-0a85486{--e-con-grid-template-columns:repeat(1, 1fr);--e-con-grid-template-rows:repeat(1, 1fr);--grid-auto-flow:row;}}/* Start custom CSS */@media (min-width: 0px) {
+    
+
+    .c_1 label.wpforms-field-label-inline {
+        border-radius: 20px !important;
+    }
+.c_1 ul#wpforms-16-field_5 {
+    justify-content: center;
+}
+::-webkit-scrollbar {display: none;}
+    p#reloj {
+    top: -23px;
+    position: relative;
+margin-bottom: 0em !important;
+}
+ .elementor-element.elementor-element-3384c9e.e-con-full.e-flex.e-con.e-parent.e-lazyloaded {
+    height: 80px!important;
+}
+
+h1.entry-title {
+    display: none;
+}
+.c_1 {
+    color: #334E6F !important;
+    font-family: "Montserrat", Sans-serif !important;
+    text-align: center;
+}
+.c_1 label.wpforms-field-label-inline {
+    border: 1px solid #009640 !important;
+}
+
+.c_1 button#wpforms-submit-16 {
+    width: 200px;
+    height: 40px;
+    border-radius: 50px;
+    background: #009640;
+}
+.c_1 input#wpforms-16-field_1 {
+          max-width: 200px;
+        height: 45px;
+        border-radius: 50px;
+        position: relative;
+        left: calc(50% - 100px);
+        font-family: 'Montserrat' !important;
+        font-weight: 600 !important;
+}
+.c_1 div.wpforms-container-full .wpforms-form .wpforms-image-choices-modern .wpforms-image-choices-item.wpforms-selected .wpforms-image-choices-image:after {
+    background-color: #009640;
+}
+p#reloj {
+    color: #334E6F;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+}
+}
+@media (min-width: 400px) { }
+
+@media (max-width: 400px) { }
+@media (min-width: 576px) { }
+
+@media (max-width: 576px) { }
+@media (min-width: 768px) { }
+@media (max-width: 768px) {p#reloj {
+    text-align: center;
+} 
+ .c_3 .elementor-button-wrapper {
+    text-align: center;
+}   
+}
+@media (min-width: 992px) {   .c_6 {
+    margin-top: -30px;
+} }
+@media (max-width: 992px) { }
+@media (min-width: 1024px) { }
+@media (max-width: 1024px) { }
+@media (min-width: 1200px) { }
+@media (min-width: 1367px) { }
+@media (min-width: 1400px) { }
+@media (min-width: 1500px) { }
+@media (min-width: 1650px) { }
+@media (min-width: 1750px) { }/* End custom CSS */
