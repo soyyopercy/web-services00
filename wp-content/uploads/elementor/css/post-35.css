@@ -1,5 +1,22 @@
-.elementor-35 .elementor-element.elementor-element-0a85486{--display:grid;--e-con-grid-template-columns:repeat(2, 1fr);--e-con-grid-template-rows:repeat(1, 1fr);--grid-auto-flow:row;--background-transition:0.3s;}.elementor-35 .elementor-element.elementor-element-bc0c60c .elementor-button{font-family:"Montserrat", Sans-serif;font-size:13px;font-weight:400;background-color:#334E6F;border-style:none;}.elementor-35 .elementor-element.elementor-element-3af18b4{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-35 .elementor-element.elementor-element-a166dfa{text-align:center;}.elementor-35 .elementor-element.elementor-element-a166dfa .elementor-heading-title{color:#334E6F;font-family:"Montserrat", Sans-serif;font-size:30px;font-weight:600;}.elementor-35 .elementor-element.elementor-element-4c216fc{--display:flex;--background-transition:0.3s;}.elementor-35 .elementor-element.elementor-element-189f623 > .elementor-widget-container{padding:20px 20px 20px 20px;background-color:#F6F8FB;border-radius:50px 50px 50px 50px;}@media(max-width:1024px){.elementor-35 .elementor-element.elementor-element-0a85486{--grid-auto-flow:row;}}@media(max-width:767px){.elementor-35 .elementor-element.elementor-element-0a85486{--e-con-grid-template-columns:repeat(1, 1fr);--e-con-grid-template-rows:repeat(1, 1fr);--grid-auto-flow:row;}}/* Start custom CSS */@media (min-width: 0px) {
-    
+.elementor-35 .elementor-element.elementor-element-0a85486{--display:grid;--e-con-grid-template-columns:repeat(2, 1fr);--e-con-grid-template-rows:repeat(1, 1fr);--grid-auto-flow:row;--background-transition:0.3s;}.elementor-35 .elementor-element.elementor-element-bc0c60c .elementor-button{font-family:"Montserrat", Sans-serif;font-size:13px;font-weight:400;background-color:#334E6F;border-style:none;}.elementor-35 .elementor-element.elementor-element-3af18b4{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-35 .elementor-element.elementor-element-a166dfa{text-align:center;}.elementor-35 .elementor-element.elementor-element-a166dfa .elementor-heading-title{color:#334E6F;font-family:"Montserrat", Sans-serif;font-size:30px;font-weight:600;}.elementor-35 .elementor-element.elementor-element-4c216fc{--display:flex;--background-transition:0.3s;}.elementor-35 .elementor-element.elementor-element-189f623 > .elementor-widget-container{padding:20px 20px 20px 20px;background-color:#F6F8FB;border-radius:50px 50px 50px 50px;}body.elementor-page-35:not(.elementor-motion-effects-element-type-background), body.elementor-page-35 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F00303;}@media(max-width:1024px){.elementor-35 .elementor-element.elementor-element-0a85486{--grid-auto-flow:row;}}@media(max-width:767px){.elementor-35 .elementor-element.elementor-element-0a85486{--e-con-grid-template-columns:repeat(1, 1fr);--e-con-grid-template-rows:repeat(1, 1fr);--grid-auto-flow:row;}}/* Start custom CSS */@media (min-width: 0px) {
+label.wpforms-field-label-inline {
+    max-width: 250px !important;
+}
+.wpforms-container .wpforms-image-choices-modern img {
+
+    max-width: 30% !important;
+}
+
+
+   .c_6 {
+    pointer-events: auto;
+    opacity: 1!important;
+} 
+
+   .c_5 {
+    pointer-events: none ;
+    opacity: 0.5;
+} 
 
     .c_1 label.wpforms-field-label-inline {
         border-radius: 20px !important;

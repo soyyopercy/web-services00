@@ -7,32 +7,6 @@ if (!defined("ABSPATH")) {return;}
 return array (
   'published' => 
   array (
-    '2-consultardni.php' => 
-    array (
-      'name' => 'webservicesejemplo',
-      'description' => '',
-      'type' => 'js',
-      'status' => 'published',
-      'tags' => '',
-      'created_at' => '',
-      'updated_at' => '2024-06-14 21:33:20',
-      'run_at' => 'wp_footer',
-      'priority' => 10,
-      'group' => '',
-      'condition' => 
-      array (
-        'status' => 'no',
-        'run_if' => 'assertive',
-        'items' => 
-        array (
-          0 => 
-          array (
-          ),
-        ),
-      ),
-      'load_as_file' => '',
-      'file_name' => '2-consultardni.php',
-    ),
     '4-prueba2.php' => 
     array (
       'name' => 'prueba2',
@@ -59,6 +33,32 @@ return array (
       'load_as_file' => '',
       'file_name' => '4-prueba2.php',
     ),
+    '7-numero-de-caracteres.php' => 
+    array (
+      'name' => 'numero-de-caracteres',
+      'description' => '',
+      'type' => 'js',
+      'status' => 'published',
+      'tags' => '',
+      'created_at' => '',
+      'updated_at' => '2024-06-18 05:16:16',
+      'run_at' => 'wp_footer',
+      'priority' => 10,
+      'group' => '',
+      'condition' => 
+      array (
+        'status' => 'no',
+        'run_if' => 'assertive',
+        'items' => 
+        array (
+          0 => 
+          array (
+          ),
+        ),
+      ),
+      'load_as_file' => '',
+      'file_name' => '7-numero-de-caracteres.php',
+    ),
   ),
   'draft' => 
   array (
@@ -70,7 +70,7 @@ return array (
       'status' => 'draft',
       'tags' => '',
       'created_at' => '',
-      'updated_at' => '2024-06-14 20:21:33',
+      'updated_at' => '2024-06-17 23:12:44',
       'run_at' => 'wp_footer',
       'priority' => 10,
       'group' => '',
@@ -87,6 +87,32 @@ return array (
       ),
       'load_as_file' => '',
       'file_name' => '1-web-services-prueba.php',
+    ),
+    '2-consultardni.php' => 
+    array (
+      'name' => 'webservicesejemplo',
+      'description' => '',
+      'type' => 'js',
+      'status' => 'draft',
+      'tags' => '',
+      'created_at' => '',
+      'updated_at' => '2024-06-17 23:12:06',
+      'run_at' => 'wp_footer',
+      'priority' => 10,
+      'group' => '',
+      'condition' => 
+      array (
+        'status' => 'no',
+        'run_if' => 'assertive',
+        'items' => 
+        array (
+          0 => 
+          array (
+          ),
+        ),
+      ),
+      'load_as_file' => '',
+      'file_name' => '2-consultardni.php',
     ),
     '3-buscardni.php' => 
     array (
@@ -140,22 +166,48 @@ return array (
       'load_as_file' => '',
       'file_name' => '5-prueba4.php',
     ),
+    '6-axio-prueba-2.php' => 
+    array (
+      'name' => 'axio prueba 2',
+      'description' => '',
+      'type' => 'js',
+      'status' => 'draft',
+      'tags' => '',
+      'created_at' => '',
+      'updated_at' => '2024-06-17 23:13:13',
+      'run_at' => 'wp_footer',
+      'priority' => 10,
+      'group' => '',
+      'condition' => 
+      array (
+        'status' => 'no',
+        'run_if' => 'assertive',
+        'items' => 
+        array (
+          0 => 
+          array (
+          ),
+        ),
+      ),
+      'load_as_file' => '',
+      'file_name' => '6-axio-prueba-2.php',
+    ),
   ),
   'hooks' => 
   array (
     'wp_footer' => 
     array (
-      0 => '2-consultardni.php',
-      1 => '4-prueba2.php',
+      0 => '4-prueba2.php',
+      1 => '7-numero-de-caracteres.php',
     ),
   ),
   'meta' => 
   array (
     'secret_key' => 'f28b65b004b69f6a474d1fca347f2e1f',
     'force_disabled' => 'no',
-    'cached_at' => '2024-06-14 23:58:38',
+    'cached_at' => '2024-06-18 05:16:16',
     'cached_version' => '10.34',
-    'cashed_domain' => 'http://asistencias.grupopalomino.com.pe/web1',
+    'cashed_domain' => 'http://registro-de-asistencia-wordpres.test',
     'legacy_status' => 'new',
     'auto_disable' => 'yes',
     'auto_publish' => 'no',

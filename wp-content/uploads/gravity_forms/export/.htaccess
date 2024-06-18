@@ -1,0 +1,8 @@
+
+# BEGIN Gravity Forms
+# Las directivas (líneas) entre «BEGIN Gravity Forms» y «END Gravity Forms» son
+# generadas dinámicamente y solo deberían ser modificadas mediante filtros de WordPress.
+# Cualquier cambio en las directivas que hay entre esos marcadores serán sobrescritas.
+# Disable access to files via Apache web servers.
+deny from all
+# END Gravity Forms
